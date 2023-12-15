@@ -1,0 +1,21 @@
+th {background: #FFE5F5; display: table-cell; vertical-align: inherit; font weight: bold; text-align: center;}
+b {color: hotpink; text-align: center;}
+th {color: palevioletred; display: table-cell; vertical-align: inherit; font-weight: bold; text-align:}
+tr {background: rgb(241, 241, 220)}
+td {display: table-cell;
+  vertical align: inherit; border: 1px solid black; padding: 10px; text-align: center;}
+td, h1, h2, h3, h4, h5, h6 {
+  font-family:'Times New Roman', Times, serif;
+  padding: 10px; 
+  border: 2px solid #000000;
+  color: rgb(95, 140, 255)}
+a:link {color:rgb(251, 14, 184);text-decoration: none;}
+a:visited {color:rgb(255, 43, 149);text-decoration: none;}
+a:active {color:rgb(244, 127, 238) text-decoration: none;}
+a:hover {cursor: pointer;}
+table caption {
+  font-size: 25px;
+  font-weight: bold;
+  color: beige;
+  background-color: rgb(95, 140, 255);
+  padding: 10px;}
